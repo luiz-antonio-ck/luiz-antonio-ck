@@ -1,12 +1,16 @@
-# Oi! Bem vindo(a) meu github.
+# Oi! Bem vindo(a) meu github em desenvolvimento.
+Eu me chamo Luiz Antonio, e utilizo o github para mostrar um pouco das minhas habilidades como analista de dados/BI.
+
+## Demonstração de trabalho de analista de dados em e-commerce.
 
 
-
-
+## Ferramentas de trabalho que utilizo
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height='30'/>
 
 
 ### Contato:
-![Gmail]{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}
+<a href="mailto:luizkrein@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 
 
 
