@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+# Oi! Bem vindo(a) meu github em desenvolvimento.
+
+Eu me chamo Luiz Antonio, e utilizo o github para mostrar um pouco das minhas habilidades como analista de dados e/ou analista de business inteligence.
+
 
 You can use the [editor on GitHub](https://github.com/luiz-antonio-ck/luiz-antonio-ck/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
