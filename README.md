@@ -4,6 +4,11 @@ Eu me chamo Luiz Antonio, e utilizo o github para mostrar um pouco das minhas ha
 ## Demonstração de trabalho de analista de dados em e-commerce.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luiz-antonio-ck&repo=e-commerce)](https://github.com/luiz-antonio-ck/e-commerce)
 
+## Demonstração de people analytics utilizando PowerBi
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luiz-antonio-ck&repo=people-analytics)](https://github.com/luiz-antonio-ck/people-analytics)
+
+
+
 ## Ferramentas de trabalho que utilizo
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height='30'/>
 
