@@ -11,6 +11,8 @@ Eu me chamo Luiz Antonio, e utilizo o github para mostrar um pouco das minhas ha
 
 ## Ferramentas de trabalho que utilizo
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height='30'/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" height='30'/>
+
 
 
 ### Contato:
