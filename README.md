@@ -1,26 +1,28 @@
-# Oi! Bem vindo(a) meu github em desenvolvimento.
-Eu me chamo Luiz Antonio, e utilizo o github para mostrar um pouco das minhas habilidades como analista de dados/BI.
+# Hi, welcome to my GitHub.
+My name is Luiz Antonio, this GitHub was some training projects to show my abilities with data analytics and PowerBi.
 
-## Demonstração de trabalho de analista de dados em e-commerce.
+#My projects:
+
+## Data analytics working in an E-commerce to enhance conversion rates with sales team.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luiz-antonio-ck&repo=e-commerce)](https://github.com/luiz-antonio-ck/e-commerce)
 
-## Demonstração de people analytics utilizando PowerBi
+## PowerBi with People Analytics
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luiz-antonio-ck&repo=people-analytics)](https://github.com/luiz-antonio-ck/people-analytics)
 
+## Brazilian regular gas prices over pandemic and after state tax reduction
+in development...
 
+## Tools:
 
-## Ferramentas de trabalho que utilizo
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height='30'/>
 <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height='30'/>
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height='30'/>
 
 
-
-### Contato:
+### Contact:
 
 <a href="https://www.linkedin.com/in/luiz-antonio-coimbra-krein-225b57b7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:luizkrein@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
 
 
 
