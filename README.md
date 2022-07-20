@@ -1,7 +1,7 @@
 # Hi, welcome to my GitHub.
 My name is Luiz Antonio, this GitHub was some training projects to show my abilities with data analytics and PowerBi.
 
-#My projects:
+# My projects:
 
 ## Data analytics working in an E-commerce to enhance conversion rates with sales team.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luiz-antonio-ck&repo=e-commerce)](https://github.com/luiz-antonio-ck/e-commerce)
