@@ -10,7 +10,8 @@ My name is Luiz Antonio, this GitHub was some training projects to show my abili
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luiz-antonio-ck&repo=people-analytics)](https://github.com/luiz-antonio-ck/people-analytics)
 
 ## Brazilian regular gas prices over pandemic and after state tax reduction
-in development...
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luiz-antonio-ck&repo=brazilian-gasoline-prices)](https://github.com/luiz-antonio-ck/brazilian-gasoline-prices)
+
 
 ## Tools:
 
