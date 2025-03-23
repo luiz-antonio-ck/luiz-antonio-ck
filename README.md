@@ -1,5 +1,5 @@
 # Hi, welcome to my GitHub.
-My name is Luiz Antonio, this GitHub was some training projects to show my abilities with data analytics and PowerBi.
+My name is Luiz Antonio, this GitHub was some training projects to show my abilities with data analytics and Power BI.
 
 # My projects:
 
