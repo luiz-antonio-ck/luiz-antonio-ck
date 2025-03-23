@@ -5,9 +5,9 @@ My name is Luiz Antonio, this GitHub was some training projects to show my abili
 
 ## Data analytics working in an E-commerce to enhance conversion rates with sales team.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luiz-antonio-ck&repo=e-commerce)](https://github.com/luiz-antonio-ck/e-commerce)
-
+<!--
 ## PowerBi with People Analytics
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luiz-antonio-ck&repo=people-analytics)](https://github.com/luiz-antonio-ck/people-analytics)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luiz-antonio-ck&repo=people-analytics)](https://github.com/luiz-antonio-ck/people-analytics) -->
 
 ## Brazilian regular gas prices over pandemic and after state tax reduction
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luiz-antonio-ck&repo=brazilian-gasoline-prices)](https://github.com/luiz-antonio-ck/brazilian-gasoline-prices)
